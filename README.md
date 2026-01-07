@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there 🖖
 
 👨‍💻 Estudante de IA, Machine Learning e Ciência de Dados  
 🤖 Explorando Robótica e sistemas inteligentes  
