@@ -1,5 +1,4 @@
 ## Hello there 🖖
 
-👨‍💻 AI, Machine Learning, and Data Science Student  
-🤖 Exploring Robotics and Intelligent Systems  
+👨‍💻 AI, Machine Learning, and Data Science Student 
 🎮 Game Developer in my spare time  
