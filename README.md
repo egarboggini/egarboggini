@@ -1,4 +1,5 @@
 ## Hello there 🖖
 
-👨‍💻 AI, Machine Learning, and Data Science Student 
-🎮 Game Developer in my spare time  
+Cientista de Dados e Bioinformata
+
+Game Developer nas horas vagas
