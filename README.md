@@ -1,5 +1,8 @@
 ## Hello there 🖖
 
-Cientista de Dados e Bioinformata
+Cientista de Dados 🎲
 
-Game Developer nas horas vagas
+Estudando Bioinformática e Machine Learning 🤖🧬
+
+Game Developer nas horas vagas 🎮🕹️
+
