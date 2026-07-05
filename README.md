@@ -1,8 +1,6 @@
 ## Hello there 🖖
 
-Cientista de Dados 🎲
+Brazilian Data Scientist  
 
-Estudando Bioinformática e Machine Learning 🤖🧬
-
-Game Developer nas horas vagas 🎮🕹️
+Loading Bio... Come back later 😅
 
