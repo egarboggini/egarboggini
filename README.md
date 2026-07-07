@@ -1,6 +1,4 @@
 ## Hello there 🖖
 
-Brazilian Data Scientist  
-
-Loading Bio...
+Brazilian Data Scientist 🎲
 
