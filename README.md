@@ -1,6 +1,6 @@
 ## Hello there 🖖
 
-I'm a Data Scientist fascinated by the power of technology to understand life, solve problems, and create new possibilities.
+I'm a **Data Scientist** fascinated by the power of technology to understand life, solve problems, and create new possibilities.
 
 Always exploring new frontiers of science and computation.
 
