@@ -1,12 +1,16 @@
 ## Hello there 🖖
 
-I'm a Data Scientist passionate about solving problems through data and technology.  
+I'm a Data Scientist fascinated by the power of technology to understand life, solve problems, and create new possibilities.
 
-Currently studying:  
-🧬 Bioinformatics. 
-🤖 Machine Learning. 
-🧠 Artificial Intelligence. 
-⚛️ Quantum Computing. 
+Always exploring new frontiers of science and computation.
 
-Beyond data science, I'm also passionate about Game Development, where I enjoy combining programming, creativity, and interactive design.
+### Currently exploring
+
+- Bioinformatics 🧬
+- Machine Learning 🤖
+- Artificial Intelligence 🧠
+- Quantum Computing ⚛️
+
+**Game Development** 🎮 has been a passion of mine since childhood. I love creating games, exploring new ideas, and turning imagination into interactive worlds.
+
 Always learning, always building.
